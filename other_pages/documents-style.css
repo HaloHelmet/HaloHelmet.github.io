@@ -48,37 +48,13 @@
     margin: auto;
     border-left: 6px solid #5f0575;
     border-right: 6px solid #5f0575;
-    height: 600px;
+    height: 800px;
     width: 60%;
 }
 
-.footer {
-    height: 140px;
-    background-color: rgb(43, 42, 42);
-    margin: 0px;  
-}
-
-.pointless-note {
-    margin: 15px;
-    font-size: 34px;
-    text-align: center;
-}
-.memes {
-    display: inline-block;
-    text-align: center;
-    margin: auto;
-    width: 500px;
-    margin-bottom: 10px;
-}
-
 li {
-    display: block;
-    font-size: 50px;
+    font-size: 36px;
+    margin: 25px;
+    text-decoration: none;
     color: black;
-    padding: 10px;
-    margin: 20px;
-}
-
-li:hover {
-    background-color: rgb(153, 0, 255);
 }
